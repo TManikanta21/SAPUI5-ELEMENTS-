@@ -1,0 +1,10 @@
+<mvc:View controllerName="com.manikanta.project1.project1.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="paragraph">
+    <content>
+    <Text text=" I am dedicated and enthusiastic third-year engineering student with a strong interest in technology, problem-solving, and continuous learning. Over the past few months, I have actively worked on multiple projects, explored SAP modules, and improved my technical skills through research and practical assignments. I believe in learning by doing, and I always try to present my work in a clear and structured way. My goal is to gain real industry experience, perform well in my academic projects, and build a strong foundation for my future career in IT and enterprise solutions.">
+    </Text>
+    </content>
+    </Page>
+</mvc:View>
