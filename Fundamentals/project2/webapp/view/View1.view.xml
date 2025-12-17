@@ -3,8 +3,13 @@
     xmlns="sap.m">
     <Page id="page" title="my world">
 	<content>
-	<VBox> <Text id="Manikanta" level="h1"/> </VBox>
-	<Text id="this is second line" level="h2"/>
+	<VBox id="_IDGenVBox"> <Text id="_IDGenText2"  text="Manikanta" level="h1"/>
+	<Text id="_IDGenText" text="I'm Final Year Student from IT Backgrounp" class="sapUiSmallMarginTop" />
+    <Text id="_IDGenText1" text="SAP (Systems, Applications, and Products in Data Processing) is a leading German enterprise software company providing solutions for businesses to manage operations and customer relations" wrapping="true" class="sapUiSmallMarginTop" />
+    <Text id="_IDGenText5"  text="Nobita" level="h1" class="sapUiSmallMarginTop"/>
+	<Text id="_IDGenText3" text="I'm 6th class Student from Doraemon Backgrounp" class="sapUiSmallMarginTop" />
+    <Text id="_IDGenText4" text="Nobita Nobi is the lovable, lazy, and often unlucky 10-year-old protagonist from the iconic Japanese manga and anime series Doraemon, known for his reliance on futuristic gadgets from the robot cat Doraemon to solve his everyday problems, from failing tests to bullies, all while dreaming of marrying his crush, Shizuka. He's a relatable character characterized by his frequent naps, poor academic performance, and dependence on Doraemon, but he also shows bravery and kindness in adventures. " wrapping="true" class="sapUiSmallMarginTop" />
+    </VBox>
     </content>
 	</Page>
 </mvc:View>
