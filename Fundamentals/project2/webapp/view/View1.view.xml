@@ -1,0 +1,10 @@
+<mvc:View controllerName="project2.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="my world">
+	<content>
+	<VBox> <Text id="Manikanta" level="h1"/> </VBox>
+	<Text id="this is second line" level="h2"/>
+    </content>
+	</Page>
+</mvc:View>
